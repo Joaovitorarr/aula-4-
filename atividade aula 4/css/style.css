@@ -1,0 +1,21 @@
+body {
+    background: brown url(../imagens/image\ fundo.jpg) no-repeat fixed center/cover ; 
+}
+
+h1 {
+    box-sizing: border-box;
+    display: block;
+    width: 150px;
+    height: 50px;
+    background: darkblue;
+    border: 2px solid black;
+
+    or 
+
+    padding: 5px
+
+    or 
+
+    margin: 30px;
+    
+}
